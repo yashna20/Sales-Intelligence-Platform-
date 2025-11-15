@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.db
+venv/
+contractors_raw.json
+evaluation_report.json
+.DS_Store
